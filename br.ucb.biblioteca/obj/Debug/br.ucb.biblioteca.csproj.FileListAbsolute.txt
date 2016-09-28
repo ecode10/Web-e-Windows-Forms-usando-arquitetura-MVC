@@ -1,0 +1,4 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\br.ucb.biblioteca\bin\Debug\br.ucb.biblioteca.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\br.ucb.biblioteca\bin\Debug\br.ucb.biblioteca.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\br.ucb.biblioteca\obj\Debug\br.ucb.biblioteca.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\br.ucb.biblioteca\obj\Debug\br.ucb.biblioteca.pdb

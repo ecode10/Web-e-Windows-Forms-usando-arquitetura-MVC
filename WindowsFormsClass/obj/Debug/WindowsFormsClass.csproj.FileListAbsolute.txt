@@ -1,0 +1,11 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\bin\Debug\WindowsFormsClass.exe.config
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\bin\Debug\WindowsFormsClass.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\bin\Debug\WindowsFormsClass.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\obj\Debug\WindowsFormsClass.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\obj\Debug\WindowsFormsClass.Form1.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\obj\Debug\WindowsFormsClass.Properties.Resources.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\obj\Debug\WindowsFormsClass.csproj.GenerateResource.Cache
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\obj\Debug\WindowsFormsClass.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\obj\Debug\WindowsFormsClass.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\bin\Debug\br.ucb.biblioteca.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\WindowsFormsClass\WindowsFormsClass\bin\Debug\br.ucb.biblioteca.pdb
